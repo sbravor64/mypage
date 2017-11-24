@@ -1,6 +1,7 @@
 body {
-  background-image: url("fondo.jpg");
+  background-image: url("Champions.jpg");
   background-color: #cccccc;
+  width: "550"
 }
 
 .intro {
