@@ -1,12 +1,6 @@
 body {
-  background-image: url("/imagenes/fondo.jpg");
+  background-image: url("imagenes/fondo.jpg");
   background-color: #cccccc;
-  width: "550"
-}
-
-div {
-  border: 2px solid white;
-  background-color:black;
 }
 
 .intro {
