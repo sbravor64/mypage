@@ -1,7 +1,12 @@
 body {
-  background-image: url("Champions.jpg");
+  background-image: url("/imagenes/fondo.jpg");
   background-color: #cccccc;
   width: "550"
+}
+
+div {
+  border: 2px solid white;
+  background-color:black;
 }
 
 .intro {
@@ -22,4 +27,11 @@ body {
     font-size: 30px;
     color: white;
     font-weight: bold;
+}
+
+#menu-index {
+  float: left;
+  width: 30%;
+  overflow: hidden;
+  text-align:center;
 }
